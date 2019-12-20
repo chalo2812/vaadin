@@ -1,10 +1,10 @@
-package com.example.demoVaadin;
+package com.example.vaadin;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoVaadinApplicationTests {
+class VaadinApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package com.example.demoVaadin;
+package com.example.vaadin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class DemoVaadinApplication {
+public class VaadinApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoVaadinApplication.class, args);
+		SpringApplication.run(VaadinApplication.class, args);
 	}
 
 }
