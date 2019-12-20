@@ -2,6 +2,8 @@
 /.idea/**
 build/
 target/**
-node_modules/**
+node_modules/
 package-lock.json
 *.iml
+/webpack.generated.js
+/node/node
